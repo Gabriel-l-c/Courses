@@ -40,4 +40,4 @@ Ferramentas para testar circuitos antes de montar na bancada e canais que mostra
 - [Tech em 10](https://www.youtube.com/@Techem10) - Resumos sobre circuitos operacionais e chips.
 
 ## Alternativa gratuita e leve para PDF
-- [PDFCraft / ArtCraft] (insira_o_link) - Software local e sem mensalidade para manipulação de PDFs.
+- [PDFCraft / ArtCraft](https://getartcraft.com/) - Software local e sem mensalidade para manipulação de PDFs.
