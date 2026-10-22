@@ -13,8 +13,12 @@ Aqui você encontra todos os softwares, repositórios e materiais complementares
 ## O verdadeiro gargalo da IA em 2026
 Documentação e relatórios sobre o impacto da infraestrutura física, energia e semicondutores no avanço da inteligência artificial.
 
-- [Relatório Global de IA, Hardware e Política Econômica 2026] (insira_o_link_aqui)
-
+- [AMRO - Financial Stability Report 2026](https://theedgemalaysia.com/node/820479)
+- [Banco Mundial - East Asia and Pacific Economic Update](https://www.worldbank.org/en/publication/east-asia-and-pacific-economic-update)
+- [Banco Mundial - South Asia Economic Update](https://www.worldbank.org/en/news/press-release)
+- [FMI - Regional Economic Outlook: Asia and Pacific](https://www.imf.org/en/publications/reo/apac)
+- [PNUD - The Future of Work and Automation in Asia](https://news.un.org/en/story)
+  
 ## Roadmap prático para Sistemas Embarcados
 Canais e repositórios focados em quem constrói hardware do zero, desde programação de firmware até design de placas.
 
@@ -30,10 +34,10 @@ Canais e repositórios focados em quem constrói hardware do zero, desde program
 Ferramentas para testar circuitos antes de montar na bancada e canais que mostram o fluxo da corrente na prática.
 
 - [Falstad Simulator](https://www.falstad.com/circuit/) - Simulador que roda direto no navegador mostrando os elétrons em tempo real.
-- [NI Multisim] (insira_o_link) - Software de simulação de bancada para desktop.
-- [The Engineering Mindset] (insira_o_link) - Animações internas de capacitores e indutores.
-- [HackMakeMod] (insira_o_link) - Prática de transistores na protoboard.
-- [Tech em 10] (insira_o_link) - Resumos sobre circuitos operacionais e chips.
+- [NI Multisim] ([insira_o_link](https://www.ni.com/en/support/downloads/software-products/download.multisim.html?srsltid=AYCX9vK5ru2xSZ4R8x-QqbJBkQXCP1lgAjsIwv_4bNkMlB7JvUbZqUlc#452133)) - Software de simulação de bancada para desktop.
+- [The Engineering Mindset] ([insira_o_link](https://www.youtube.com/c/Theengineeringmindset)) - Animações internas de capacitores e indutores.
+- [HackMakeMod] ([insira_o_link](https://www.youtube.com/@HackMakeMod)) - Prática de transistores na protoboard.
+- [Tech em 10] ([insira_o_link](https://www.youtube.com/@Techem10)) - Resumos sobre circuitos operacionais e chips.
 
 ## Alternativa gratuita e leve para PDF
 - [PDFCraft / ArtCraft] (insira_o_link) - Software local e sem mensalidade para manipulação de PDFs.
