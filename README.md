@@ -22,22 +22,22 @@ Documentação e relatórios sobre o impacto da infraestrutura física, energia 
 ## Roadmap prático para Sistemas Embarcados
 Canais e repositórios focados em quem constrói hardware do zero, desde programação de firmware até design de placas.
 
-- [Schemdeck] ([insira_o_link](https://www.instagram.com/schemdeck/)) - Projetos e esquemáticos.
-- [CadPacers] ([insira_o_link](https://www.youtube.com/@cadpacers)) - Integração e produtos inteligentes.
-- [Path of Seb] ([insira_o_link](https://www.instagram.com/pathofseb/)) - Projetos práticos de robótica.
-- [Joshua Bird] ([insira_o_link](https://www.youtube.com/@joshuayjbird)) - Engenharia aplicada e construção do zero.
-- [Electronoobs] ([insira_o_link](https://www.youtube.com/electronoobs)) - Projetos com ESP32 e PCBs.
-- [Orobot.io] ([insira_o_link](https://orobot.io/)) - Plataforma de robôs open source.
-- [Huy Vector] ([insira_o_link](https://www.youtube.com/@huyvector)) - Câmeras de segurança com ESP32 e automação.
+- [Schemdeck](https://www.instagram.com/schemdeck/) - Projetos e esquemáticos.
+- [CadPacers](https://www.youtube.com/@cadpacers) - Integração e produtos inteligentes.
+- [Path of Seb](https://www.instagram.com/pathofseb/) - Projetos práticos de robótica.
+- [Joshua Bird](https://www.youtube.com/@joshuayjbird) - Engenharia aplicada e construção do zero.
+- [Electronoobs](https://www.youtube.com/electronoobs) - Projetos com ESP32 e PCBs.
+- [Orobot.io](https://orobot.io/) - Plataforma de robôs open source.
+- [Huy Vector](https://www.youtube.com/@huyvector) - Câmeras de segurança com ESP32 e automação.
 
 ## Simuladores e base visual de eletrônica
 Ferramentas para testar circuitos antes de montar na bancada e canais que mostram o fluxo da corrente na prática.
 
 - [Falstad Simulator](https://www.falstad.com/circuit/) - Simulador que roda direto no navegador mostrando os elétrons em tempo real.
-- [NI Multisim] ([insira_o_link](https://www.ni.com/en/support/downloads/software-products/download.multisim.html?srsltid=AYCX9vK5ru2xSZ4R8x-QqbJBkQXCP1lgAjsIwv_4bNkMlB7JvUbZqUlc#452133)) - Software de simulação de bancada para desktop.
-- [The Engineering Mindset] ([insira_o_link](https://www.youtube.com/c/Theengineeringmindset)) - Animações internas de capacitores e indutores.
-- [HackMakeMod] ([insira_o_link](https://www.youtube.com/@HackMakeMod)) - Prática de transistores na protoboard.
-- [Tech em 10] ([insira_o_link](https://www.youtube.com/@Techem10)) - Resumos sobre circuitos operacionais e chips.
+- [NI Multisim](https://www.ni.com/en/support/downloads/software-products/download.multisim.html?srsltid=AYCX9vK5ru2xSZ4R8x-QqbJBkQXCP1lgAjsIwv_4bNkMlB7JvUbZqUlc#452133) - Software de simulação de bancada para desktop.
+- [The Engineering Mindset](https://www.youtube.com/c/Theengineeringmindset) - Animações internas de capacitores e indutores.
+- [HackMakeMod](https://www.youtube.com/@HackMakeMod) - Prática de transistores na protoboard.
+- [Tech em 10](https://www.youtube.com/@Techem10) - Resumos sobre circuitos operacionais e chips.
 
 ## Alternativa gratuita e leve para PDF
 - [PDFCraft / ArtCraft] (insira_o_link) - Software local e sem mensalidade para manipulação de PDFs.
